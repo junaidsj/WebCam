@@ -27,11 +27,10 @@ Develop a system capable of detecting and tracking objects in real-time video st
 
 ---
 
-## 📦 Installation
 
-1. Clone the YOLOv5 repository:
+## 👨‍💻 Developed By
 
-```bash
-git clone https://github.com/ultralytics/yolov5.git
-cd yolov5
-pip install -r requirements.txt
+**Junaid Ahamed**  
+_AI Intern @ CODEALPHA_  
+📅 Submitted: April 2025
+
